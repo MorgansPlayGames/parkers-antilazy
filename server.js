@@ -14,6 +14,6 @@ app.use(logger("dev"));
 
 app.use(routes);
 
-mongoose.connect(process.env.MONGODB_URI || "mongodb://localhost/populatedb", { useNewUrlParser: true }).then(() => {
+mongoose.connect(process.env.MONGODB_URI || "mongodb://localhost/workout", { useNewUrlParser: true }).then(() => {
   app.listen(PORT, () => console.log('Now Listening!'));
 });
