@@ -23,4 +23,4 @@ mongoose.connect(process.env.MONGODB_URI || "mongodb://localhost/workout", {
   app.listen(PORT, () => console.log('Now Listening!'));
 });
 
- // const uri = mongodb+srv://jpmaster13:Haloneerd117@parkers-antilazy.cwjeg.mongodb.net/<dbname>?retryWrites=true&w=majority
+ 
