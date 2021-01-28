@@ -7,10 +7,9 @@ Workout app to track your minutes database and backend with given front end.
 
 [Live Website](https://parkers-antilazy.herokuapp.com/)
 
-![View All Employees](./images/Screenshot1.png)
+![Graphs](./images/Screenshot1.png)
 
-![View Employees by Department](./images/Screenshot2.png)
-
+![Graphs2](./images/Screenshot2.png)
 
 1. [ Description. ](#description)
 2. [ Technology Used.](#technology-used)
@@ -40,8 +39,6 @@ Workout app to track your minutes database and backend with given front end.
  
 ### Usage Information
     On run, the webpage can be opened and a workout can be edited or created with excersises input.
-    
-
 
 ### Contribution Guidelines
     Fork, update, and
